@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#main-container {
+    width: 100%;
+    font-family: Helvetica;
+}
+
+.dir {
+    background-image: url('/static/img/folder.png');
+    background-repeat: no-repeat;
+    padding-left: 1.3em;
+}
+
+.file {
+    background-image: url('/static/img/f.png');
+    background-repeat: no-repeat;
+    padding-left: 1.3em;
+}
